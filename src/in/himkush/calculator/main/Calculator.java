@@ -153,8 +153,7 @@ public class Calculator {
                         result = firstNumber - secondNumber;
                         break;
                     case 3:
-                        result = firstNumber / secondNumber;
-                        break;
+                        result = firstNumber / secondNumber;                        break;
                     case 4:
                         result = firstNumber * secondNumber;
                         break;
